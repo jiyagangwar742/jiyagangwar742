@@ -5,7 +5,7 @@
 - Currently learning Python and vibe coding for data analysis and scientific computing
 - Pre-professional ballet dancer bringing discipline to code
 
-## Current Vide Coding Projects 
+## Current Vibe Coding Projects 
 - **Stoichiometry Solver**: Python tool for chemistry calculations
 - **Fruit Fly Genetics Tracker** Python tool for:
     - **Predict** what offspring you'll get from genetic crosses
