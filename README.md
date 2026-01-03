@@ -11,7 +11,7 @@
     - **Predict** what offspring you'll get from genetic crosses
     - **Record** your actual experimental observations
     - **Analyze** whether your results match genetic theory
-    - **Visualize** your data with professional charts
+    - **Visualize** your data with charts like Punnett Square Diagram,Stacked Bar Chart, Genotype Network Diagram, Allele Frequency Pie Charts etc
     - **Track** multiple experiments over time
                                   
 ## Skills
