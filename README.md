@@ -3,7 +3,7 @@
 ## About Me
 - Chemistry student passionate about computational research
 - Currently learning Python and vibe coding for data analysis and scientific computing
-- Pre-professional ballet dancer bringing discipline to code
+
 
 ## Current Vibe Coding Projects 
 - **[Stoichiometry Solver](https://github.com/jiyagangwar742/stoichiometrysolver)**  
