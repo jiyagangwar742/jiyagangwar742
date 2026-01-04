@@ -6,8 +6,8 @@
 - Pre-professional ballet dancer bringing discipline to code
 
 ## Current Vibe Coding Projects 
-- **Stoichiometry Solver**: Python tool for chemistry calculations
-- **Fruit Fly Genetics Tracker** Python tool for:
+- **Stoichiometry Solver(https://github.com/jiyagangwar742/stoichiometrysolver)**: Python tool for chemistry calculations
+- **Fruit Fly Genetics Tracker(https://github.com/jiyagangwar742/fruit_fly_tracker)** Python tool for:
     - **Predict** what offspring you'll get from genetic crosses
     - **Record** your actual experimental observations
     - **Analyze** whether your results match genetic theory
