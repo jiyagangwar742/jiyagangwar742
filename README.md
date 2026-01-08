@@ -6,9 +6,6 @@
 
 
 ## Current Vibe Coding Projects 
-- **[Stoichiometry Solver](https://github.com/jiyagangwar742/stoichiometrysolver)**  
-  Python tool for chemistry calculations
-
 - **[Fruit Fly Genetics Tracker](https://github.com/jiyagangwar742/fruit_fly_tracker)**  
   Python tool to:
     - **Predict** what offspring you'll get from genetic crosses
@@ -16,7 +13,10 @@
     - **Analyze** whether your results match genetic theory
     - **Visualize** your data with charts like Punnett Square Diagram,Stacked Bar Chart, Genotype Network Diagram, Allele Frequency Pie Charts etc
     - **Track** multiple experiments over time
-                                  
+      
+- **[Stoichiometry Solver](https://github.com/jiyagangwar742/stoichiometrysolver)**  
+  Python tool for chemistry calculations
+                                 
 ## Skills
 - Python
 - Data analysis
