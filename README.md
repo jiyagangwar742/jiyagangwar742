@@ -5,7 +5,7 @@
 - Currently learning Python and vibe coding for data analysis and scientific computing
 
 
-## Current Vibe Coding Projects 
+## Projects I'm Currently Building with [Claude.ai](https://claude.ai/)
 - **[Fruit Fly Genetics Tracker](https://github.com/jiyagangwar742/fruit_fly_tracker)**  
   Python tool to:
     - **Predict** what offspring you'll get from genetic crosses
